@@ -1,4 +1,9 @@
-## Hi there 👋
+# Привет
+
+## Меня зовут Мария
+## Я Frontend разработчик
+
+## Обучалась в [HTML Academy][https://htmlacademy.ru/] на Frontend разработчика. Проходила стажировку в [Лиге А][https://ligaa.agency/].
 
 <!--
 **MariBadulina/MariBadulina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

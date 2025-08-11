@@ -7,10 +7,26 @@
 
 ### Обучалась в [HTML Academy](https://htmlacademy.ru/) на Frontend разработчика. Проходила стажировку в [Лиге А](https://ligaa.agency/).
 
-## Сертификаты
+- адаптивная верстка
+- работа с figma
+- Pixel Perfect
+- модульность в scss
 
-<a href="https://assets.htmlacademy.ru/certificates/intensive/553/366737.pdf?1710930731" target="_blank"><img alt="HTML и CSS. Профессиональная вёрстка сайтов
-HTML и CSS. Профессиональная вёрстка сайтов" width="100px" height="100%" src="./src/certificates/1.png"></a>
+## Сertificates
+
+<a  href="https://assets.htmlacademy.ru/certificates/intensive/553/366737.pdf?1710930731" target="_blank"><img align="left" style="margin-right: 20px; margin-bottom:10px" alt="HTML и CSS. Профессиональная вёрстка сайтов" width="100px" height="100%" src="./src/certificates/1.png"></a>
+
+<a  href="https://assets.htmlacademy.ru/certificates/intensive/559/366737.pdf?1717684941" target="_blank"><img align="left" style="margin-right: 20px; margin-bottom:10px" alt="HTML и CSS. Адаптивная вёрстка и автоматизация" width="100px" height="100%" src="./src/certificates/2.png"></a>
+
+<a  href="https://assets.htmlacademy.ru/certificates/intensive/573/366737.pdf?1723703344" target="_blank"><img align="left" style="margin-right: 20px; margin-bottom:10px" alt="JavaScript. Профессиональная разработка веб-интерфейсов" width="100px" height="100%" src="./src/certificates/3.png"></a>
+
+<a  href="https://assets.htmlacademy.ru/certificates/intensive/637/366737.pdf?1726483546" target="_blank"><img align="left" style="margin-right: 20px; margin-bottom:10px" alt="Подготовка вёрстки для CMS" width="100px" height="100%" src="./src/certificates/4.png"></a>
+
+<a  href="https://assets.htmlacademy.ru/certificates/intensive/639/366737.pdf?1728895994" target="_blank"><img align="left" style="margin-right: 20px; margin-bottom:10px" alt="Вёрстка React-компонентов" width="100px" height="100%" src="./src/certificates/5.png"></a>
+
+<a  href="https://assets.htmlacademy.ru/certificates/profession/149/366737.pdf?1741604585" target="_blank"><img  style="margin-right: 20px; margin-bottom:10px" alt="Профессия «Фронтенд-разработчик»" width="100px" height="100%" src="./src/certificates/6.png"></a>
+
+
 
 
 
@@ -22,17 +38,7 @@ HTML и CSS. Профессиональная вёрстка сайтов" width
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
 
 
-<!--
-**MariBadulina/MariBadulina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## В данный момент на HTML Academy обучаюсь на JavaScript разработчика. 
 
-Here are some ideas to get you started:
+## React знаю только основы, в перспективах изучить его более тщательно
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

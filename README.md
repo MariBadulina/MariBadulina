@@ -9,7 +9,7 @@
 
 ## Сертификаты
 
-<a href="src/certificates/1.pdf" target="_blank"><img alt="HTML и CSS. Профессиональная вёрстка сайтов
+<a href="https://assets.htmlacademy.ru/certificates/intensive/553/366737.pdf?1710930731" target="_blank"><img alt="HTML и CSS. Профессиональная вёрстка сайтов
 HTML и CSS. Профессиональная вёрстка сайтов" width="100px" height="100%" src="./src/certificates/1.png"></a>
 
 

@@ -9,7 +9,8 @@
 
 ## Сертификаты
 
-<iframe src="./src/certificates/1.pdf" width="150px" height="100%"></iframe>
+<a href="src/certificates/1.pdf" target="_blank"><img alt="HTML и CSS. Профессиональная вёрстка сайтов
+HTML и CSS. Профессиональная вёрстка сайтов" width="100px" height="100%" src="./src/certificates/1.png"></a>
 
 
 

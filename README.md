@@ -1,4 +1,4 @@
-<img src="">
+
 
 # Привет
 
@@ -9,8 +9,7 @@
 
 ## Сертификаты
 
-<img alt="HTML и CSS. Профессиональная вёрстка сайтов
-HTML и CSS. Профессиональная вёрстка сайтов" width="50px" src="./src/1.pdf">
+<iframe src="./src/certificates/1.pdf" width="150px" height="100%"></iframe>
 
 
 
